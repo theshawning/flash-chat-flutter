@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325098560955",
+    "firebase_url": "https://flash-chat-8020e.firebaseio.com",
+    "project_id": "flash-chat-8020e",
+    "storage_bucket": "flash-chat-8020e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325098560955:android:993798d8b5d47ce95c389e",
+        "android_client_info": {
+          "package_name": "co.theshawning.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325098560955-a22jlk4cs60grc4rf787ncfoble96gqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQe3-4jo8mMVFqytJDvULomVnjpZxqdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325098560955-a22jlk4cs60grc4rf787ncfoble96gqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
